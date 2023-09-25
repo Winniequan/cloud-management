@@ -5,7 +5,7 @@ import {
   PaperAirplaneIcon,
   ServerIcon,
 } from "@heroicons/react/solid";
-import bgImg from "../assets/picture2.png";
+import bgImg from "../assets/cloud.jpg";
 
   const Hero = () => {
     return (
